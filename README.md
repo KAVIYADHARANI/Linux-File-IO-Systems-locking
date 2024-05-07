@@ -106,12 +106,6 @@ COMMAND         PID  TYPE SIZE MODE  M START END PATH
 (unknown)        54 FLOCK      WRITE 0     0   0 /run...
 ```
 
-## RESULT:
-The programs are executed successfully.
-
-
-
-
 
 # RESULT:
 The programs are executed successfully.
