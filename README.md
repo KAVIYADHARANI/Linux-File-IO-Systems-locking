@@ -89,7 +89,6 @@ close (fd);
 return 0;
 }
 ```
-
 ## OUTPUT
 ```
 $ gcc -o lock.o lock.c
@@ -103,5 +102,5 @@ COMMAND         PID  TYPE SIZE MODE  M START END PATH
 (unknown)        54 FLOCK      WRITE 0     0   0 /run...
 ```
 
-# RESULT:
+## RESULT:
 The programs are executed successfully.
