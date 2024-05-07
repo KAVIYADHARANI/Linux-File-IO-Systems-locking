@@ -96,16 +96,12 @@ $ gcc -o lock.o lock.c
 $ ./lock.o tricky.txt
 
 opening tricky.txt
-
 ```
-
 ```
-
 $ lslocks
 COMMAND         PID  TYPE SIZE MODE  M START END PATH
 (unknown)        54 FLOCK      WRITE 0     0   0 /run...
 ```
-
 
 # RESULT:
 The programs are executed successfully.
